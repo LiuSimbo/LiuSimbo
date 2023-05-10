@@ -5,13 +5,12 @@
 </p>
 
 
-- ✍ I'm a middle software developer at [AkaChain](https://akachain.io/).
+- ✍ I'm a student software engineer at [FPT University Da Nang](https://dnuni.fpt.edu.vn/).
 
 <br />
 
 ## 📫 How to reach me:
 
-[![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <p align="center">
   <a href="https://linkedin.com" target="_blank">
@@ -70,6 +69,6 @@
 
 <img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
 
-- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) [Introduction to JavaScript](https://www.coursera.org/account/accomplishments/specialization/certificate/P22NSX9BGUC5)](https://www.coursera.org/account/accomplishments/specialization/certificate/P22NSX9BGUC5)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Introduction to JavaScript](https://www.coursera.org/account/accomplishments/specialization/certificate/P22NSX9BGUC5)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Web Design for Everybody: Basics of Web Development & Coding Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/V2Z6WQPLKMPY)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Computer Communications](https://www.coursera.org/account/accomplishments/specialization/certificate/FWBB5DC2593X)
